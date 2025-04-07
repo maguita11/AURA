@@ -1,6 +1,5 @@
 import json
 
-# Cargar las reservas desde el archivo JSON (si existe)
 def cargar_reservas():
     try:
         with open('reservas.json', 'r') as file:
