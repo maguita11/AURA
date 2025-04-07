@@ -1,0 +1,34 @@
+{
+    "2025-04-01": {
+        "10:00": {
+            "cliente": "Ana P\u00c3\u00a9rez",
+            "profesional": "Laura"
+        },
+        "14:00": {
+            "cliente": "Carlos G\u00c3\u00b3mez",
+            "profesional": "Ana"
+        }
+    },
+    "2025-04-02": {
+        "11:00": {
+            "cliente": "Marta L\u00c3\u00b3pez",
+            "profesional": "Laura"
+        },
+        "15:00": {
+            "cliente": "Pedro Ruiz",
+            "profesional": "Ana"
+        }
+    },
+    "2025-06-21": {
+        "12:00": {
+            "cliente": "gu8illermina",
+            "profesional": "laura"
+        }
+    },
+    "2025-12-03": {
+        "09:00": {
+            "cliente": "gui",
+            "profesional": "lau"
+        }
+    }
+}
