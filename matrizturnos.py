@@ -14,7 +14,7 @@ horarios = ["10:00", "12:00", "14:00"]
 profesionales= ["Lucrecia", "Camila", "Juana"]
 tipos_servicios = ["SoftGel", "Kapping", "Semi"]
 
-
+     
 print("agenda de turnos:")
 print("Hora  | Lucrecia | Camila  |Juana ")
 for i in range(len(turnos)):
