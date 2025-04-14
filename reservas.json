@@ -1,0 +1,22 @@
+{
+    "2025-04-01": {
+        "10:00": {
+            "cliente": "Ana Pérez",
+            "profesional": "Laura"
+        },
+        "14:00": {
+            "cliente": "Carlos Gómez",
+            "profesional": "Ana"
+        }
+    },
+    "2025-04-02": {
+        "11:00": {
+            "cliente": "Marta López",
+            "profesional": "Laura"
+        },
+        "15:00": {
+            "cliente": "Pedro Ruiz",
+            "profesional": "Ana"
+        }
+    }
+}
